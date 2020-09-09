@@ -10,6 +10,7 @@ Protocol verion: 6
 Client version: 1
 
 Working clients:
+
 https://github.com/jimboy3100/imsolo-client
 
 https://imsolo.pro/web/
