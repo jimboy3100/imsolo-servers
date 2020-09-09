@@ -16,3 +16,7 @@ https://github.com/jimboy3100/imsolo-client
 https://imsolo.pro/web/
 
 https://legendmod.ml
+
+Fork Glitch and test: https://glitch.com/~lm-ps2
+
+websocket: wss://lm-ps2.glitch.me
