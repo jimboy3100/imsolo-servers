@@ -17,6 +17,6 @@ https://imsolo.pro/web/
 
 https://legendmod.ml
 
-Fork Glitch and test: https://glitch.com/~lm-ps2
+Fork Glitch and test: https://glitch.com/~imsolo-megasplit-beta
 
-websocket: wss://lm-ps2.glitch.me
+websocket: wss://imsolo-megasplit-beta.glitch.me
