@@ -1,3 +1,3 @@
-npm install uws
-cd cli
-node index
+### npm install uws
+### cd cli
+### node index
