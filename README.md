@@ -1,5 +1,5 @@
 # imsolo-servers
-Client of https://imsolo.pro
+Server side of https://imsolo.pro
 
 ![alt tag](https://legendmod.ml/banners/iconSolo.png)
 
