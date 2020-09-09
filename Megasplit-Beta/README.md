@@ -2,5 +2,5 @@
 ### cd cli
 ### node index
 
-This a customied repository of:
+This a customised repository of:
 https://github.com/Luka967/OgarII
