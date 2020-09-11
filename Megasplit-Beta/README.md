@@ -20,6 +20,9 @@ https://legendmod.ml
 Fork Glitch and test: https://glitch.com/~imsolo-megasplit-beta
 websocket: wss://imsolo-megasplit-beta.glitch.me
 
+
 Private server with bots
+
 url: https://glitch.com/~lm-bots-ps
+
 websocket: wss://lm-bots-ps.glitch.me
