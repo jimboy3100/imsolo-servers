@@ -8,3 +8,5 @@ For client side, visit: https://github.com/jimboy3100/imsolo-client
 ### We are looking forward for developers
 
 Discord: [https://discord.com/invite/5gXJaJQ](https://discord.com/invite/5gXJaJQ)
+
+Test Video: [https://www.youtube.com/watch?v=vpjfGYrKqO8](https://www.youtube.com/watch?v=vpjfGYrKqO8)
